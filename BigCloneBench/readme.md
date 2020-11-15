@@ -1,4 +1,3 @@
-
 For BigCloneBench (<https://github.com/jeffsvajlenko/BigCloneEval>) dataset, because it does not provide the
 dependency libraries for most of the source code files, we select
 these successfully compiled files as our final dataset. The total
