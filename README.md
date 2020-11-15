@@ -56,3 +56,11 @@ Type-2 normalizations, as follows: i) Strongly Type-3 (ST3) with
 a similarity between [0.7, 1.0), ii) Moderately Type-3 (MT3) with a
 similarity between [0.5, 0.7), and iii)Weakly Type-3/Type-4 (WT3/T4)
 with a similarity between [0.0, 0.5).
+
+# Publication #
+Yueming Wu, Deqing Zou, Shihan Dou, Siru Yang, Wei Yang, Feng Cheng,
+Hong Liang, and Hai Jin. 2020. SCDetector: Software Functional Clone
+Detection Based on Semantic Tokens Analysis. In 35th IEEE/ACM International
+Conference on Automated Software Engineering (ASE'20), September
+21–25, 2020, Virtual Event, Australia. ACM, New York, NY, USA, 13 pages.
+https://doi.org/10.1145/3324884.3416562
