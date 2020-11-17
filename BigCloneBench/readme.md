@@ -6,3 +6,4 @@ number of final clone pairs is 280,390 including 8,139 Type-1 clones,
 Type-3 clones, and 256,857 Weakly Type-3/Type-4 clones.
 
 The dataset we uploaded consists of 280,390 clone pairs, each of which corresponding to a pair of control flow graphs.
+(Also, you can download the dataset using onedrive: https://1drv.ms/u/s!AggXNkrdiC94gjCh6ImTuQ9Olhkm?e=V9GvL4)
